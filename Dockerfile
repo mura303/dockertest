@@ -5,5 +5,6 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     curl \
     libssl1.0-dev \
     libcurl4-openssl-dev \
+    python3.6 \
     vim \
     jq
